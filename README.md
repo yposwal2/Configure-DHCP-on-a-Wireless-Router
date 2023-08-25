@@ -1,4 +1,4 @@
-<h1Configure DHCP on a Wireless Router</h1>
+<h1>Configure DHCP on a Wireless Router</h1>
 
 <h2>Description</h2>
 
@@ -13,14 +13,14 @@ This GitHub repository showcases the accomplishment of a Cisco Networking Lab fo
 <h1>Program Result</h1>
 
 <p align="center">
-Lab Screenshot <br/>
-<img src="https://i.imgur.com/xmSb52F.png" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/No8BQeI.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 Lab Screenshot <br/>
-<img src="https://i.imgur.com/xmSb52F.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qw10ifM.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
