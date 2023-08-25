@@ -19,8 +19,20 @@ This GitHub repository showcases the accomplishment of a Cisco Networking Lab fo
 <br />
 
 <p align="center">
-Lab Screenshot <br/>
-<img src="https://i.imgur.com/Qw10ifM.png" width="80%" alt="Disk Sanitization Steps"/>
+PC0 IP <br/>
+<img src="https://i.imgur.com/4KqT04y.png" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+PC1 IP <br/>
+<img src="https://i.imgur.com/uId5wJP.png" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+PC2 IP <br/>
+<img src="https://i.imgur.com/At9y2EK.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
